@@ -1,6 +1,6 @@
-<p align="center">
-  <a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
-</p>
+
+
+![Screenshot 2023-06-08 005441](https://github.com/Acromatic/Acromatic/assets/8341068/bf26f65d-0d31-48c9-8894-c0e60dd1ee9f)
 
 <h3 align="center">
 Hi there, I'm <a href="" target="_blank" rel="noreferrer">Acromatic</a> 👋
