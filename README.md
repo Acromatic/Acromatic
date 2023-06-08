@@ -1,16 +1,49 @@
-### Hi there 👋
+<p align="center">
+  <a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+</p>
 
-<!--
-**Acromatic/Acromatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Hi there, I'm <a href="" target="_blank" rel="noreferrer">Acromatic</a> 👋
+</h3>
 
-Here are some ideas to get you started:
+<h2 align="center">
+I'm an Autodidact Hobbyist C++23 Game Developer 💻, Photographer 📸, and Designer 🎨!
+</h2> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love the entire process of developing creative applications. I love to meet new people. 
+
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 🔭 I'm currently working on
+
+- Chestnut
+- My old projects
+- Some new projects
+- My Html5 skill
+- My CSS skill
+
+## 🌱 I'm currently learning
+
+- C#
+- Java
+- Javascript
+- HTML5 and CSS  
+
+## 💼 Technical Skills
+
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+
+</br>
+
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Acromatic)](https://github.com/Acromatic)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acromatic&layout=compact)](https://github.com/Acromatic)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Acromatic.Acromatic)
