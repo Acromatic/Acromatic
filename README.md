@@ -7,7 +7,7 @@ Hi there, I'm <a href="" target="_blank" rel="noreferrer">Acromatic</a> 👋
 </h3>
 
 <h2 align="center">
-I'm an Autodidact Hobbyist C++23 Game Developer 💻, Photographer 📸, and Designer 🎨!
+I'm an Autodidact Hobbyist C++23 Game Developer 💻, Photographer 📸, and Designer 🎨
 </h2> 
 
 I love the entire process of developing creative applications. I love to meet new people. 
