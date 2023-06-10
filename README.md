@@ -46,4 +46,4 @@ I love the entire process of developing creative applications. I love to meet ne
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acromatic&layout=compact)](https://github.com/Acromatic)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Acromatic.Acromatic)
+
